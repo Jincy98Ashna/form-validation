@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.card-body h1{
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-body p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.card-head h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-align: center;
+   text-decoration: underline;
+}
+.col-md-2 img{
+    width: 100%;
+    margin-left: 85%;
+ 
+ }
+ .card-body h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 120%;
+    white-space: nowrap;
+ }
+ .card-para1{
+    white-space: nowrap;
+    margin-left: 50%;
+    list-style: square;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+   
+ }
+ .card-para2{
+    white-space: nowrap;
+    margin-left: 50%;
+    list-style: square;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+   
+ }
+ .card-para3{
+    white-space: nowrap;
+    margin-left: 50%;
+    list-style: square;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+   
+ }
+ .col-lg-2 img{
+    width: 100%;
+    margin-left: 85%;
+    height:20% ;
+ 
+ }
+ .card-para4{
+    white-space: nowrap;
+    margin-left: 50%;
+   list-style: square;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+} 
+.card-para5{
+    white-space: nowrap;
+    margin-left: 50%;
+   list-style: square;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+} 
+.card-para6{
+    white-space: nowrap;
+    margin-left: 50%;
+   list-style: square;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+} 
+.card-para7{
+    white-space: nowrap;
+    margin-left: 50%;
+   list-style: square;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+} 
+.card-para8{
+    white-space: nowrap;
+    margin-left: 50%;
+   list-style: square;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+} 
+.card-para9{
+    white-space: nowrap;
+    margin-left: 50%;
+   list-style: square;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+} 
